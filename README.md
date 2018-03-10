@@ -9,7 +9,7 @@
 
 Parse Server is an [open source version of the Parse backend](http://blog.parseplatform.org/announcements/introducing-parse-server-and-the-database-migration-tool/) that can be deployed to any infrastructure that can run Node.js.
 
-Parse Server works with the Express web application framework. It can be added to existing web applications, or run by itself.
+Parse Server works with the Express web application framework. It can be added to existing web applications, or run by itself. 
 
 - [Getting Started](#getting-started)
     - [Running Parse Server](#running-parse-server)
